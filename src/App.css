@@ -1,3 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow: hidden;
+}
+
+/* O en el contenedor principal */
+.w-full.h-screen {
+  overflow: hidden;
+}
+
 .App {
   text-align: center;
 }
