@@ -22,16 +22,13 @@ npm start
 ## Dependencias
 Lista de las principales dependencias del proyecto:
 
-- @testing-library/jest-dom: ^5.16.5 - Utilidades de prueba para Jest.
-- @testing-library/react: ^13.4.0 - Utilidades de prueba para React.
-- @testing-library/user-event: ^13.5.0 - Simulación de eventos para pruebas en React.
 - classnames: ^2.3.2 - Utilidad para manejar nombres de clases de manera dinámica.
-- firebase: ^9.23.0 - SDK de Firebase para aplicaciones web.
 - react: ^18.2.0 - Biblioteca principal de React.
 - react-dom: ^18.2.0 - Paquete de manipulación del DOM para React.
 - react-scripts: 5.0.1 - Scripts y herramientas de configuración para proyectos React.
 - web-vitals: ^2.1.4 - Librería para medir las métricas web importantes.
 - tailwindcss: ^3.3.2 - Framework de CSS para construir interfaces rápidamente.
+  
 ### Contribución
 Si deseas contribuir a este proyecto, sigue estos pasos:
 
