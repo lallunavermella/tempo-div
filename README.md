@@ -6,7 +6,7 @@ Tempo Div es una pequeña aplicación basada en React que presenta una caja roja
 Clonar el repositorio
 
 ```bash
-git clone https://github.com/lallunavermella/tempo-div
+git clone https://github.com/lallunavermella/tempo-div.git
 ```
 ## Instalar dependencias
 
